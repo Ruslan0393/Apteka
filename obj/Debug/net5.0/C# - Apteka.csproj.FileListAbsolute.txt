@@ -1,0 +1,16 @@
+/home/ruslan/Desktop/Developer/project/C# - Apteka/bin/Debug/net5.0/C# - Apteka
+/home/ruslan/Desktop/Developer/project/C# - Apteka/bin/Debug/net5.0/C# - Apteka.deps.json
+/home/ruslan/Desktop/Developer/project/C# - Apteka/bin/Debug/net5.0/C# - Apteka.runtimeconfig.json
+/home/ruslan/Desktop/Developer/project/C# - Apteka/bin/Debug/net5.0/C# - Apteka.runtimeconfig.dev.json
+/home/ruslan/Desktop/Developer/project/C# - Apteka/bin/Debug/net5.0/C# - Apteka.dll
+/home/ruslan/Desktop/Developer/project/C# - Apteka/bin/Debug/net5.0/ref/C# - Apteka.dll
+/home/ruslan/Desktop/Developer/project/C# - Apteka/bin/Debug/net5.0/C# - Apteka.pdb
+/home/ruslan/Desktop/Developer/project/C# - Apteka/obj/Debug/net5.0/C# - Apteka.csproj.AssemblyReference.cache
+/home/ruslan/Desktop/Developer/project/C# - Apteka/obj/Debug/net5.0/C# - Apteka.GeneratedMSBuildEditorConfig.editorconfig
+/home/ruslan/Desktop/Developer/project/C# - Apteka/obj/Debug/net5.0/C# - Apteka.AssemblyInfoInputs.cache
+/home/ruslan/Desktop/Developer/project/C# - Apteka/obj/Debug/net5.0/C# - Apteka.AssemblyInfo.cs
+/home/ruslan/Desktop/Developer/project/C# - Apteka/obj/Debug/net5.0/C# - Apteka.csproj.CoreCompileInputs.cache
+/home/ruslan/Desktop/Developer/project/C# - Apteka/obj/Debug/net5.0/C# - Apteka.dll
+/home/ruslan/Desktop/Developer/project/C# - Apteka/obj/Debug/net5.0/ref/C# - Apteka.dll
+/home/ruslan/Desktop/Developer/project/C# - Apteka/obj/Debug/net5.0/C# - Apteka.pdb
+/home/ruslan/Desktop/Developer/project/C# - Apteka/obj/Debug/net5.0/C# - Apteka.genruntimeconfig.cache
